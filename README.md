@@ -1,9 +1,9 @@
-### Full Stack Data Scientist whatever that means 👋
+### Full Stack Data Scientist whatever that means 🤖
 
 <!--
 **atom-accelerator/atom-accelerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+ 
 - 🔭 I’m currently working on: Modernizing data and pipelines at Moody's Analytics since 2019
 - 🌱 I’m currently learning: Scalable Data Engineering, ElasticSearch, Rust/Golang
 - 👯 I’m looking to collaborate on: machine learning in production but anything creative really
